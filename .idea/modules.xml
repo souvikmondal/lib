@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/annotation-lib/annotation-lib.iml" filepath="$PROJECT_DIR$/annotation-lib/annotation-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basestack/app.iml" filepath="$PROJECT_DIR$/basestack/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basestack-android.iml" filepath="$PROJECT_DIR$/basestack-android.iml" />
+    </modules>
+  </component>
+</project>
